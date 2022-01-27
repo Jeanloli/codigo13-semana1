@@ -53,4 +53,11 @@ git checkout -b "nombre"
 ```
 git checkout -b nombre_del_branch
 ```
-- sirve para descargar nuestro repositorio de la nube a nuestra computadora.
+- crea un branch nuevo.
+
+```
+git checkout nombre_del_branch
+```
+
+- Sirve para poder moverme entre ramas
+- 👁️ Si el checkout no tiene el -b solo es para moverse
