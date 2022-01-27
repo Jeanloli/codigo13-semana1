@@ -30,3 +30,9 @@ git commit -m "comentario"
 git push origin main
 ```
 - sirve para subuer los cambios a nuestro repositorio en la nube
+
+
+```
+git pull origin main
+```
+- sirve para descargar nuestro repositorio de la nube a nuestra computadora.
