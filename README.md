@@ -1,6 +1,6 @@
-#Codigo 13
+# Codigo 13
 
-##Comando para GIT
+## Comando para GIT
 
 ```
 git init
