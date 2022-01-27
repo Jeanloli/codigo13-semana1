@@ -36,3 +36,21 @@ git push origin main
 git pull origin main
 ```
 - sirve para descargar nuestro repositorio de la nube a nuestra computadora.
+
+
+```
+git branch
+```
+- sirve para listar los branch que tengo localmente y me dice en cual me encuentro actualmente.
+
+
+```
+git checkout -b "nombre"
+```
+- sirve para descargar nuestro repositorio de la nube a nuestra computadora.
+
+
+```
+git checkout -b nombre_del_branch
+```
+- sirve para descargar nuestro repositorio de la nube a nuestra computadora.
